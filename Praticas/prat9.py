@@ -1,0 +1,2 @@
+print(len(input('qual é o seu nome?')))
+#3 etapas: obtem a entrada do usuário (input), calcula o comprimento da entrada, a quantidade de espaços que ocupam (len) e então mostra para nós a quantidade(print)
